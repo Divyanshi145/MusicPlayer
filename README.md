@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-username}.github.io/music-player/">
+    <a href="https://Divyanshi145.github.io/music-player/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/{your-username}/music-player">
+    <a href="https://github.com/Divyanshi145/music-player">
       Solution
     </a>
     <span> | </span>
@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](resources/cover-1.jpg)
+![screenshot](musicPage.png)
 
 <!-- Replace the screenshot above with an actual screenshot of your running app before submitting -->
 
