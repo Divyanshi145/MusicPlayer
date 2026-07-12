@@ -7,11 +7,9 @@
 
 <div align="center">
   <h3>
-    <a href="https://Divyanshi145.github.io/music-player/">
-      Demo
-    </a>
+   
     <span> | </span>
-    <a href="https://github.com/Divyanshi145/music-player">
+    <a href="https://divyanshi145.github.io/MusicPlayer/">
       Solution
     </a>
     <span> | </span>
@@ -77,5 +75,5 @@ This is a vanilla JavaScript music player that lets users play/pause a track, sk
 
 ## Author
 
-- Website [your-website.com](https://{your-website-link})
-- GitHub [@{your-username}](https://github.com/{your-username})
+- Website [your-website.com](https://divyanshi145.github.io/MusicPlayer/)
+- GitHub [@Divyanshi145](https://github.com/Divyanshi145)
