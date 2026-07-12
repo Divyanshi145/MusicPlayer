@@ -5,19 +5,7 @@
 </a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
 </div>
 
-<div align="center">
-  <h3>
-   
-    <span> | </span>
-    <a href="https://divyanshi145.github.io/MusicPlayer/">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenge/music-player">
-      Challenge
-    </a>
-  </h3>
-</div>
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -75,5 +63,5 @@ This is a vanilla JavaScript music player that lets users play/pause a track, sk
 
 ## Author
 
-- Website [your-website.com](https://divyanshi145.github.io/MusicPlayer/)
+- Website [divyanshi145.github.io/MusicPlayer/](https://divyanshi145.github.io/MusicPlayer/)
 - GitHub [@Divyanshi145](https://github.com/Divyanshi145)
